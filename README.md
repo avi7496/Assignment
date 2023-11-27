@@ -1032,8 +1032,8 @@ To destroy the resources created by Terraform and avoid incurring charges:
 bash
 Copy code
 terraform destroy
-Enter yes when prompted.
+Enter yes when prompted
 
-In the README file, users are provided with clear instructions on cloning the repository,
+In the README file, users are provided with clear instructions on cloning the repository.
 Initializing and applying the Terraform configuration, accessing the web application, and cleaning up resources.
 
